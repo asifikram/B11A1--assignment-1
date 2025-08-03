@@ -202,6 +202,7 @@
     padding: 80px 265px;
     margin-top: 80px;
     border-radius: 10px;
+    
 }
 
 .footer-content{
@@ -214,3 +215,18 @@
     
 }
 
+.Bangladesh{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Bangladesh ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.Bangladesh li{
+    list-style: none;
+}
