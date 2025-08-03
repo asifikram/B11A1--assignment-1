@@ -195,6 +195,22 @@
    margin-top: 10px;
 }
 
-.button{
- 
+.footer{
+    background-color:#53b49c;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding: 80px 265px;
+    margin-top: 80px;
+    border-radius: 10px;
 }
+
+.footer-content{
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.gritings{
+    padding:20px;
+    
+}
+
