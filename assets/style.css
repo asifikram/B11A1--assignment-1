@@ -144,3 +144,57 @@
     padding: 5px;
     border-radius: 5px;
 }
+
+.donate{
+    text-align: center;
+    justify-content: center;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.donate h1{
+    color: #0E0E0E;
+}
+
+.donation{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.amount{
+    background-color:#c9c2c2;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.price-amount{
+    background-color: #C6E4D6;
+    padding: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.other-amount{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-left: 284px;
+    margin-right: 284px;
+    margin-top: 10px;
+}
+
+.help-btn{
+    background-color: #006A50;
+    color:white ;
+    padding: 8px;
+    border-radius: 8px;
+    display: block;
+   margin: 0 auto; 
+   margin-top: 10px;
+}
+
+.button{
+ 
+}
